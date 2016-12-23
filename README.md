@@ -12,3 +12,6 @@
 
 ### 格子布局
 ![image](https://github.com/hwaphon/LearningRecord/blob/master/grid-layout.png)
+
+### 多列等高布局
+![image](https://github.com/hwaphon/LearningRecord/blob/master/multi-column.png)
