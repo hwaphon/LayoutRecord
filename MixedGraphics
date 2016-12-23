@@ -19,8 +19,8 @@
 				font-size: 18px;
 				color: #333;
 				line-height: 24px;
-				position: relative；			
-}
+				position: relative;
+			}
 
 			section img {
 				width: 64px;
