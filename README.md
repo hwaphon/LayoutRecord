@@ -3,4 +3,4 @@
 ----
 
 ### 题图文字布局 
-![image](https://github.com/hwaphon/LearningRecord/mixedGraphics.png)
+![image](https://github.com/hwaphon/LearningRecord/blob/master/mixedGraphics.png)
