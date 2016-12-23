@@ -15,3 +15,6 @@
 
 ### 多列等高布局
 ![image](https://github.com/hwaphon/LearningRecord/blob/master/multi-column.png)
+
+### 自适应两列布局
+![image](https://github.com/hwaphon/LearningRecord/blob/master/adaptive-two.png)
