@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<style type="text/css">
+
+			* {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+			section {
+				width: 480px;
+				border: 1px solid rgba(0,0,0,0.3);
+				border-top-color: #C69;
+				border-top-width: 4px;
+				margin: 48px auto;
+				padding: 64px 32px 32px;
+				font-size: 18px;
+				color: #333;
+				line-height: 24px;
+				position: relative;
+			}
+
+			section img {
+				width: 64px;
+				height: 64px;
+				border-radius: 50%;
+				float: left;
+				margin-right: 9px;
+				position: absolute;
+				top: -32px;
+			}
+		</style>
+	</head>
+	<body>
+		<section>
+			<img src="images/11.jpg">
+			<p>
+				Change is considerably easier when you have a full complement of supporting partners and unlimited resources. But, since very often it is the shock of a death, divorce or some other life tragedy that unceremoniously tosses us out of our comfort zone to fend for ourselves, it can mean being forced to strike out alone which for many of us is the scariest part of all.
+			</p>
+		</section>
+	</body>
+</html>
