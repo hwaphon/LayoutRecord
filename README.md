@@ -4,3 +4,6 @@
 
 ### 题图文字布局 
 ![image](https://github.com/hwaphon/LearningRecord/blob/master/mixedGraphics.png)
+
+### 巨幕
+![image](https://github.com/hwaphon/LearningRecord/blob/master/jump.png)
