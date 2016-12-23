@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<style type="text/css">
+			* {
+				box-sizing: border-box;
+				margin: 0;
+				padding: 0;
+			}
+			html {
+				font-family: sans-serif;
+			}
+			.clearfix::before,
+			.clearfix::after {
+				display: table;
+
+				content: '';
+			}
+			.clearfix::after {
+				clear: both;
+			}
+			section {
+				width: 980px;
+				margin: 32px auto;
+				padding: 40px;
+
+				background-color: #f5f5f5;
+				box-shadow: 0 0 1px rgba(0,0,0,.4) inset;
+			}
+			section > article {
+				position: relative;
+
+				float: left;
+
+				width: 49%;
+			}
+			section article:first-child {
+				margin-right: 2%;
+			}
+
+			article h3 {
+				font-size: 32px;
+
+				margin-bottom: 16px;
+			}
+
+			article p {
+				font-size: 16px;
+
+				color: #888;
+			}
+
+			article img {
+				position: absolute;
+				top: 0;
+			}
+
+			article > h3,
+			article p {
+				width: 65%;
+				margin-left: 35%;
+			}
+
+		</style>
+	</head>
+	<body>
+		<section class="clearfix">
+			<article>
+				<h3>Nike sport shoes</h3>
+				<p>
+					Nike sport shoes are the best mate while you are running, it is soft, light, and presentable. Top layer mesh features Flywire technology and a sub layer open mesh offers breathability and comfort.
+				</p>
+				<img src="images/head1.png" alt="nike sport shoes">
+			</article>
+			<article>
+				<h3>Beautiful ties</h3>
+				<p>
+					Thank you so much for the tie you gave me on my birthday last week.It goes perfectly well with my suits.I love it a lot and now I'm wearing it all the time.Will you be available this Sunday?I want to take you for dinner and karaoke afterwards.
+				</p>
+				<img src="images/head2.png" alt="Beautiful ties">
+			</article>
+		</section>
+	</body>
+</html>
