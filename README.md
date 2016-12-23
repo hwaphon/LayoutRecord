@@ -7,3 +7,6 @@
 
 ### 巨幕
 ![image](https://github.com/hwaphon/LearningRecord/blob/master/jump.png)
+
+### 固定两列布局
+![image](https://github.com/hwaphon/LearningRecord/blob/master/two-column.png)
